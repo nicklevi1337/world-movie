@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.google.com/share?selection.family=Chakra+Petch:wght@700|Montserrat');
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  overflow-y: auto;
+}
+
+body {
+  background-color: black;
+  font-family: 'Chakra' sans-serif ;
+ 
+}
