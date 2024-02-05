@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/world-movie/static/css/main.0368aa0d.css",
-    "main.js": "/world-movie/static/js/main.81313e99.js",
+    "main.js": "/world-movie/static/js/main.e1fa2fe3.js",
     "index.html": "/world-movie/index.html",
     "main.0368aa0d.css.map": "/world-movie/static/css/main.0368aa0d.css.map",
-    "main.81313e99.js.map": "/world-movie/static/js/main.81313e99.js.map"
+    "main.e1fa2fe3.js.map": "/world-movie/static/js/main.e1fa2fe3.js.map"
   },
   "entrypoints": [
     "static/css/main.0368aa0d.css",
-    "static/js/main.81313e99.js"
+    "static/js/main.e1fa2fe3.js"
   ]
 }
