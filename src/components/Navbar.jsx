@@ -10,7 +10,7 @@ const Navbar = () => {
   const handleLogout = async (e) => {
     try {
       await logOut();
-      navigate('/')
+      navigate('/world-movies')
     } catch (error) {
       console.log(error);
     }
@@ -18,7 +18,7 @@ const Navbar = () => {
 
   return (
     <div className="flex item-center justify-between p-4 z-[100] absolute w-full">
-      <Link to="/">
+      <Link to="/world-movies">
         <h1 className="text-violet-600 text-4xl font-bold cursor-pointer">
           World Movies
         </h1>

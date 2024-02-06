@@ -15,7 +15,7 @@ const LogIn = () => {
 
     try {
       await logIn(email, password);
-       navigate('/')
+       navigate('/world-movies')
     } catch (error) {
       console.log(error);
       setError(error.message)

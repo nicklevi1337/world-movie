@@ -13,7 +13,7 @@ export const SignUp = () => {
 
         try{
             await signUp(email,password )
-            navigate('/')
+            navigate('/world-movies')
         } catch(error) {
             console.log(error)
         }
